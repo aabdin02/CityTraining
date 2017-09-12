@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/development/unity/self-driving-car-sim/Assets/1_SelfDrivingCar/Scenes/CityTraining.unity
+  isLoaded: 1
+  isActive: 1
